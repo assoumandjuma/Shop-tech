@@ -4,7 +4,7 @@ function Testimonials() {
   const testimonials = [
     {
       id: 1,
-      name: 'Alex Johnson',
+      name: 'asssuoman',
       role: 'Tech Enthusiast',
       content: 'Amazing selection of electronics! I found exactly what I was looking for at a great price. The shipping was quick and everything arrived in perfect condition.',
       rating: 5,
@@ -12,7 +12,7 @@ function Testimonials() {
     },
     {
       id: 2,
-      name: 'Sarah Williams',
+      name: 'jonathan',
       role: 'Fashion Blogger',
       content: 'The clothing quality is exceptional. I appreciate the attention to detail and the customer service team was very helpful when I needed to exchange an item.',
       rating: 4,
@@ -20,7 +20,7 @@ function Testimonials() {
     },
     {
       id: 3,
-      name: 'Michael Chen',
+      name: 'bizz',
       role: 'Regular Customer',
       content: 'Been shopping here for years and never disappointed. The website is easy to navigate and the rewards program is a great bonus for loyal customers.',
       rating: 5,
