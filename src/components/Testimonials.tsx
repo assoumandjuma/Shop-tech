@@ -24,7 +24,7 @@ function Testimonials() {
       role: 'Regular Customer',
       content: 'Been shopping here for years and never disappointed. The website is easy to navigate and the rewards program is a great bonus for loyal customers.',
       rating: 5,
-      avatar: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=100&q=80'
+      avatar: 'hhhhhh.jpg'
     }
   ];
   
